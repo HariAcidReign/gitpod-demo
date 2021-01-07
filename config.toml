@@ -46,7 +46,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "The DevOps Toolkit Series"
+    title = "HariAcidReign"
     subtitle = "Where DevOps becomes practice"
     buttonText = "Get Started"
 
@@ -57,7 +57,7 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "The DevOps Toolkit"
+      title = "Hari tries out Gitpod"
       subtitle = "Catalog, Patterns, And Blueprints"
       image = "catalog-small.jpg"
       url = "posts/catalog"
